@@ -227,6 +227,7 @@
     .pic-8 {
         width: 100%;
         height: 350px;
+        position: inherit;
         /* margin-top: 3%; */
     }
 
