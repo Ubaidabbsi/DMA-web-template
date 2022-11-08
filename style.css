@@ -115,25 +115,26 @@ a {
 }
 
 .text {
-    font-family: DM Sans, sans-serif;
+
     width: 90%;
     /* border: 1px solid black; */
-    margin-left: 3%;
+    margin-left: 5%;
     margin-top: 5%;
     flex-wrap: wrap;
 }
 
 .text h3 {
     color: #0066ba;
-    letter-spacing: 6px;
-    font-weight: 900;
+    letter-spacing: 7px;
+    font-weight: 700;
+    line-height: 1.25;
 }
 
 .text h1 {
     font-family: Lato, sans-serif;
     color: #181e4e;
-    font-size: 3.5rem;
-    line-height: 1.2;
+    font-size: 3.75rem;
+    line-height: 72.8px;
     font-weight: 900;
 }
 
@@ -147,6 +148,7 @@ a {
 .section {
     display: flex;
     margin-top: 5%;
+    margin-left: 4%;
 }
 
 .main-s {
