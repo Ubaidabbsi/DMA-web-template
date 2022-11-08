@@ -3,13 +3,13 @@
     padding: 0;
 }
 
-/* .sticky {
+.sticky {
     position: sticky;
     top: 0;
     left: 0;
     z-index: 999;
    
-} */
+}
 
 body {
     max-width: 1444px;
@@ -76,6 +76,8 @@ a{
 .navbar {
     border-bottom: 1px solid gray;
     overflow: hidden;
+    z-index: 999;
+    background-color: #fff;
 }
 
 .list {
